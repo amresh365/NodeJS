@@ -4,6 +4,7 @@ npm install express --save                for install module
 
 npm i                                  for installing node module
 
+
 npm i -g nodemon                       it is for globally install on the computer and we can run by using 
 command nodemon file name ex. index.js
 
